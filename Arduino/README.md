@@ -6,7 +6,7 @@ O programa é responsável pelo controle das funções automatizadas do equipame
 
 Arquivo disponibilizado
 
-Extrusora_PET.ino: código-fonte principal do sistema de controle.
+Código Extrusora.ino: código-fonte principal do sistema de controle.
 
 Ambiente de desenvolvimento
 
