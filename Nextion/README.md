@@ -6,9 +6,9 @@ A interface permite ao operador interagir com o equipamento por meio da tela Nex
 
 Arquivos disponibilizados
 
-Interface_Extrusora.HMI: arquivo editável do projeto da interface, desenvolvido no Nextion Editor.
+Interface.HMI: arquivo editável do projeto da interface, desenvolvido no Nextion Editor.
 
-Interface_Extrusora.TFT: arquivo compilado para utilização na tela Nextion.
+Interface.TFT: arquivo compilado para utilização na tela Nextion.
 
 Ambiente de desenvolvimento
 
